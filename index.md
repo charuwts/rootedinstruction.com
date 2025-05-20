@@ -1,5 +1,3 @@
 ---
 template: homepage
 ---
-
-# test
