@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "title": "Rooted Education",
+    "metaDescription": "Shaping Hearts  One Resource At A Time",
+    "template": "tile_index"
+  },
+  "misc": {
+    "bannerUrl": "images/RI-web-academia-banner.jpg",
+    "bannerLogo": "images/RI-web-home-logo.png",
+    "bannerTitle": "ROOTED EDUCATION",
+    "bannerText": "Shaping Hearts  One Resource At A Time"
+  }
+}

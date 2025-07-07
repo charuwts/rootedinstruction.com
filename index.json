@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "title": "Biblical Foundations for Modern Life",
+    "metaDescription": "test",
+    "template": "homepage"
+  },
+  "misc": {
+    "bannerUrl": "images/RI-web-home-banner.jpg",
+    "bannerLogo": "images/RI-web-home-logo.png",
+    "bannerText": "Shaping Hearts  One Resource At A Time",
+    "footerText": "Subscribe to receive updates from Rooted Instruction!"
+  },
+  "home-squares": [
+    {
+      "title": "ROOTED<br>BOOKS",
+      "description": "Instilling a biblical foundation for life, one chapter at a time.",
+      "imageUrl": "images/RI-web-home-square-books.jpg"
+    },
+    {
+      "title": "ROOTED ACADEMIA",
+      "description": "Courses that intentionally establish a foundation of biblical truth.",
+      "imageUrl": "images/RI-web-home-square-academia.jpg"
+    },
+    {
+      "title": "ROOTED THOUGHTS",
+      "description": "Thinking about today from a biblical foundation.",
+      "imageUrl": "images/RI-web-home-square-thoughts.jpg"
+    }
+  ],
+  "menu": [
+    {
+      "title": "ROOTED BOOKS",
+      "description": "Instilling a biblical foundation for life, one chapter at a time.",
+      "imageUrl": "images/RI-web-home-square-books.jpg"
+    },
+    {
+      "title": "ROOTED ACADEMIA",
+      "description": "Courses that intentionally establish a foundation of biblical truth.",
+      "imageUrl": "images/RI-web-home-square-academia.jpg"
+    },
+    {
+      "title": "ROOTED THOUGHTS",
+      "description": "Thinking about today from a biblical foundation.",
+      "imageUrl": "images/RI-web-home-square-thoughts.jpg"
+    }
+  ]
+}

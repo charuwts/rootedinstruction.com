@@ -1,0 +1,23 @@
+{
+  "settings": {
+    "title": "Thoughts",
+    "metaDescription": "",
+    "template": "blog_index"
+  },
+  "misc": {
+    "bannerUrl": "images/RI-web-academia-banner.jpg",
+    "bannerLogo": "images/RI-web-home-logo.png",
+    "bannerTitle": "ROOTED THOUGHTS",
+    "bannerText": "Shaping affections one thought at a time"
+  },
+  "post-summaries": [
+    {
+      "title": "What Is At The Heart Of Education",
+      "subtitle": "Rooted Instruction's Commitments",
+      "description": "An education is no less than the seeking to systematically shape the affections of a human that is created in the image of God.",
+      "imageUrl": "images/RI-web-home-square-academia.jpg",
+      "postUrl": "tttt1",
+      "postCta": "Read More"
+    }
+  ]
+}

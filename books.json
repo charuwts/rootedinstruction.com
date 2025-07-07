@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "title": "Rooted Books",
+    "metaDescription": "Shaping affections one chapter at a time.",
+    "template": "tile_index"
+  },
+  "misc": {
+    "bannerUrl": "images/RI-web-books-banner.jpg",
+    "bannerLogo": "images/RI-web-home-logo.png",
+    "bannerTitle": "ROOTED BOOKS",
+    "bannerText": "Shaping affections one chapter at a time."
+  },
+  "book-squares": [
+    {
+      "title": "Rooted: Leading Your Child Into the Glorious Message of the Bible",
+      "subtitle": "by Elijah Robertson",
+      "imageUrl": "images/RootedDropshadowlgcover.png"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "imageUrl": "images/RI-web-product-tba.jpg"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "imageUrl": "images/RI-web-product-tba.jpg"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "imageUrl": "images/RI-web-product-tba.jpg"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "imageUrl": "images/RI-web-product-tba.jpg"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "imageUrl": "images/RI-web-product-tba.jpg"
+    }
+  ]
+}
