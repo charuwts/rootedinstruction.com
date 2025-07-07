@@ -1,5 +1,4 @@
 ---
-category: test
 
 ---
 # Rooted Instruction's Vision
@@ -18,4 +17,3 @@ We produce educational resources in the form of:
 - A foundational knowledge what it means to be human.
 
 If you or someone you know, would be interested in supporting or participating in Rooted Instruction's vision, please connect with me at [rootedinstruction@gmail.com](mailto:rootedinstruction@gmail.com)
-
