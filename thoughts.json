@@ -8,7 +8,8 @@
     "bannerUrl": "images/RI-web-academia-banner.jpg",
     "bannerLogo": "images/RI-web-home-logo.png",
     "bannerTitle": "ROOTED THOUGHTS",
-    "bannerText": "Shaping affections one thought at a time"
+    "bannerText": "Shaping affections one thought at a time",
+    "sidebarImage": "images/IMG_8157.jpg"
   },
   "post-summaries": [
     {
@@ -16,8 +17,9 @@
       "subtitle": "Rooted Instruction's Commitments",
       "description": "An education is no less than the seeking to systematically shape the affections of a human that is created in the image of God.",
       "imageUrl": "images/RI-web-home-square-academia.jpg",
-      "postUrl": "tttt1",
+      "postUrl": "/thoughts/ri-view-of-education",
       "postCta": "Read More"
     }
   ]
 }
+

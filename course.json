@@ -13,24 +13,24 @@
   },
   "course-squares": [
     {
-      "title": "Two video lessons a week.",
-      "description": ""
+      "title": "",
+      "description": "Two video lessons a week."
     },
     {
-      "title": "Intention learning assignments and group assignments for when students meet with their homeschool coop.",
-      "description": ""
+      "title": "",
+      "description": "Intention learning assignments and group assignments for when students meet with their homeschool coop."
     },
     {
-      "title": "Personal feedback for learning assignments.",
-      "description": ""
+      "title": "",
+      "description": "Personal feedback for learning assignments."
     },
     {
-      "title": "Two live-streamed Q/A events a semester.",
-      "description": ""
+      "title": "",
+      "description": "Two live-streamed Q/A events a semester."
     },
     {
-      "title": "Documentation of how the course meets federal and state standards in awarding hour student credit.",
-      "description": ""
+      "title": "",
+      "description": "Documentation of how the course meets federal and state standards in awarding hour student credit."
     }
   ],
   "course-squares-2": [
@@ -44,4 +44,3 @@
     }
   ]
 }
-

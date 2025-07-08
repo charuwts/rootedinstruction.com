@@ -9,5 +9,23 @@
     "bannerLogo": "images/RI-web-home-logo.png",
     "bannerTitle": "ROOTED EDUCATION",
     "bannerText": "Shaping Hearts  One Resource At A Time"
-  }
+  },
+  "book-squares": [
+    {
+      "title": "CHRISTIAN FOUNDATIONS",
+      "subtitle": "<p><strong>A pivotal class for every Christian high school student. Learn:</strong></p><ul> <li>who God is</li> <li>what does it mean to be human </li> <li>What the Bible is </li> <li>What the Bible's message is</li> <li>How has God designed the content of the Bible's message to give us a foundation upon which we can confidently build our lives.</li> </ul>",
+      "imageUrl": "images/Bibleclasssquarebutton.png"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "imageUrl": "images/RI-web-product-tba.jpg"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "imageUrl": "images/RI-web-product-tba.jpg"
+    }
+  ]
 }
+

@@ -5,12 +5,13 @@
     "template": "default"
   },
   "misc": {
-    "bannerUrl": "images/RI-web-academia-banner.jpg",
+    "bannerUrl": "/websites/2/pages/images/RI-web-books-banner.jpg",
     "bannerLogo": "images/RI-web-home-logo.png",
-    "bannerTitle": "ROOTED THOUGHTS",
-    "bannerText": "Shaping affections one thought at a time",
+    "bannerTitle": "About Rooted Instruction",
+    "bannerText": "",
     "blogHeader": "images/IMG_8157.jpg",
-    "blogSidebarPhoto": "images/RI-web-home-banner.jpg"
+    "blogSidebarPhoto": "images/RI-web-home-banner.jpg",
+    "imageUrl": "/websites/2/pages/images/RI-web-home-banner.jpg"
   },
   "book-squares": [
     {
