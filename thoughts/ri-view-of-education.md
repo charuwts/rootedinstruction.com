@@ -6,6 +6,7 @@ bannerTitle: ROOTED THOUGHTS
 bannerText: Shaping affections one thought at a time
 bannerUrl: "/websites/2/pages/images/RI-web-home-banner.jpg"
 imageUrl: "/websites/2/pages/images/RI-web-books-banner.jpg"
+sidebarImage: images/IMG_8157.jpg 
 ---
 
 # Rooted Instruction's View of Education

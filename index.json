@@ -14,19 +14,19 @@
     {
       "title": "ROOTED<br>BOOKS",
       "description": "Instilling a biblical foundation for life, one chapter at a time.",
-      "imageUrl": "http://localhost:3000/websites/2/pages/images/RI-web-home-square-books.jpg",
+      "imageUrl": "images/RI-web-home-square-books.jpg",
       "imageLinkUrl": "/books"
     },
     {
       "title": "ROOTED ACADEMIA",
       "description": "Courses that intentionally establish a foundation of biblical truth.",
-      "imageUrl": "http://localhost:3000/websites/2/pages/images/RI-web-home-square-academia.jpg",
+      "imageUrl": "images/RI-web-home-square-academia.jpg",
       "imageLinkUrl": "/academia"
     },
     {
       "title": "ROOTED THOUGHTS",
       "description": "Thinking about today from a biblical foundation.",
-      "imageUrl": "http://localhost:3000/websites/2/pages/images/RI-web-home-square-thoughts.jpg",
+      "imageUrl": "images/RI-web-home-square-thoughts.jpg",
       "imageLinkUrl": "/thoughts"
     }
   ],
