@@ -6,8 +6,10 @@ bannerTitle: ROOTED THOUGHTS
 bannerText: Shaping affections one thought at a time
 bannerUrl: "/websites/2/pages/images/RI-web-home-banner.jpg"
 imageUrl: "/websites/2/pages/images/RI-web-books-banner.jpg"
-sidebarImage: images/IMG_8157.jpg 
+sidebarImage: images/IMG_8157.jpg
+audioUrl: 
 ---
+
 
 # Rooted Instruction's View of Education
 
@@ -74,7 +76,7 @@ The very heart of what it means to be human is to be a being of affection. It si
 Let's bring it back to education. all of one's life and actions are changed when their affections are changed. Education is so much more than the transfer of knowledge, **it is the establishing of a framework of affections that determines how the student understands life and the world around them.** The following quotes are proof positive of this truth.
 
 - All who have meditated on the art of governing mankind have been convinced that the fate of empires depends on the education of youth.&nbsp; **(Aristotle)**
-- _"The youth of today is ever the people of tomorrow. For this reason we have set before ourselves the task of **inoculating our youth with the spirit**  **of this community** of the people at a very early age, at an age when human beings are still un-perverted and therefore unspoiled. â¦ This Reich stands, and it is building itself up for the future, upon its youth. And this new Reich will give its youth to no one, but will itself take youth and give to youth its own education and its own upbringing." (Adolf Hitler 1937)_
+- _"The youth of today is ever the people of tomorrow. For this reason we have set before ourselves the task of **inoculating our youth with the spirit**  **of this community** of the people at a very early age, at an age when human beings are still un-perverted and therefore unspoiled. â�¦ This Reich stands, and it is building itself up for the future, upon its youth. And this new Reich will give its youth to no one, but will itself take youth and give to youth its own education and its own upbringing." (Adolf Hitler 1937)_
 - \*Give me four years to teach the children \_and the seed I have sown will never be uprooted. \*(Vladimir Lenin)
 
 ### **Let's Get Practical**
