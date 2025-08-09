@@ -10,14 +10,32 @@
     "category": ""
   },
   "misc": {
-    "title": "Who is God, and What does it mean to be human",
+    "title": "Who is God? Who is Mankind?",
     "course-squares-title": "What's Included in Your Course",
+    "course-testimonials-title": "Testimonials",
     "course-squares-title-2": "Course Curriculum",
     "badge": "High School Course",
     "cta-text": "Enroll Now",
     "url": "https://docs.google.com/forms/d/e/1FAIpQLScnCA1QsHAm00mA_dvuP69bJ9eKFUwiC5EhJ7VI5xLG5iLknA/viewform?usp=dialog",
     "cta-note": ""
   },
+  "course-testimonials": [
+    {
+      "description": "It gave a good foundation for thinking of the world we live in, and the purpose we were created for.",
+      "name": "Brady",
+      "title": "Student"
+    },
+    {
+      "description": "It gave me a clear understanding of how the Bible isn't just an extra \"users manual\" that accompanied my faith, but in it contains the very basis of which our faith is built.",
+      "name": "Renee",
+      "title": "Student"
+    },
+    {
+      "description": "I would recommend this for anyone who wants to have a deeper and straightforward foundation for a clear biblical framework, and a deeper understanding of who Christ is!",
+      "name": "Susan",
+      "title": "Mother of student"
+    }
+  ],
   "course-squares": [
     {
       "title": "",
@@ -25,30 +43,29 @@
     },
     {
       "title": "",
-      "description": "Intention learning assignments and group assignments for when students meet with their homeschool coop."
+      "description": "Intentional, ready-to-go group assignments for each lesson."
     },
     {
       "title": "",
-      "description": "Personal feedback for learning assignments."
+      "description": "Personal feedback from me on student assignments."
     },
     {
       "title": "",
-      "description": "Two live-streamed Q/A events a semester."
+      "description": "Two live-streamed Q&A events each semester."
     },
     {
       "title": "",
-      "description": "Documentation of how the course meets federal and state standards in awarding hour student credit."
+      "description": "Guidance for you as a parent on awarding student credit hours for this course, which meets state and federal standards."
     }
   ],
   "course-squares-2": [
     {
-      "title": "Who is God (Semester 1)",
-      "description": "<ul class='text-left'><li>There is only one true God.</li><li>God is a spirit (God is an \"I\" and not a thing).</li><li>The Personhood of God (Trinity).</li><li>The ultimate ends for which God created.</li><li>The excellencies of God in respect to His essence.</li><li>The excellencies of in respect to His character.</li></ul>"
+      "title": "Semester 1: Who is God?",
+      "description": "<ul class='text-left'><li>There is only one true God</li><li>God is a spirit (God is an \"I\" and not a thing)</li><li>The Personhood of God (Trinity)</li><li>The ultimate ends for which God created</li><li>The excellencies of God in respect to His essence</li><li>The excellencies of in respect to His character</li></ul>"
     },
     {
-      "title": "What does it mean to be human (Semester 2)?",
-      "description": "<ul class='text-left'><li>The purpose for which God created mankind.</li><li>Created in His image.</li><li>What it means to be fallen.</li><li>Redemption and restoration.</li><li>How foundational human institutions reflect our being created in God’s image.</li></ul>"
+      "title": "Semester 2: Who is Mankind?",
+      "description": "<ul class='text-left'><li>Why God created mankind</li><li>What it means to be created in His image</li><li>What it means to be fallen</li><li>God’s plan for redemption and restoration</li><li>How foundational human institutions reflect our creation in God’s image</li></ul>"
     }
   ]
 }
-

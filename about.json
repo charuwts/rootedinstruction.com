@@ -5,13 +5,13 @@
     "template": "default"
   },
   "misc": {
-    "bannerUrl": "/websites/2/pages/images/RI-web-books-banner.jpg",
+    "bannerUrl": "images/RI-web-books-banner.jpg",
     "bannerLogo": "images/RI-web-home-logo.png",
     "bannerTitle": "About Rooted Instruction",
     "bannerText": "",
     "blogHeader": "images/IMG_8157.jpg",
     "blogSidebarPhoto": "images/RI-web-home-banner.jpg",
-    "imageUrl": "/websites/2/pages/images/RI-web-home-banner.jpg"
+    "imageUrl": "images/RI-web-home-banner.jpg"
   },
   "book-squares": [
     {
