@@ -54,7 +54,10 @@ html {
   --color-amber-600: oklch(66.6% 0.179 58.318);
   --color-amber-700: oklch(55.5% 0.163 48.998);
   --color-amber-800: oklch(47.3% 0.137 46.201);
+  --color-yellow-300: oklch(90.5% 0.182 98.111);
+  --color-yellow-500: oklch(79.5% 0.184 86.047);
   --color-yellow-700: oklch(55.4% 0.135 66.442);
+  --color-yellow-900: oklch(42.1% 0.095 57.708);
   --color-green-50: oklch(98.2% 0.018 155.826);
   --color-green-100: oklch(96.2% 0.044 156.743);
   --color-green-500: oklch(72.3% 0.219 149.579);
@@ -70,6 +73,7 @@ html {
   --color-slate-800: oklch(27.9% 0.041 260.031);
   --color-gray-100: oklch(96.7% 0.003 264.542);
   --color-gray-200: oklch(92.8% 0.006 264.531);
+  --color-gray-300: oklch(87.2% 0.01 258.338);
   --color-gray-400: oklch(70.7% 0.022 261.325);
   --color-gray-500: oklch(55.1% 0.027 264.364);
   --color-gray-600: oklch(44.6% 0.03 256.802);
@@ -718,6 +722,9 @@ html {
   .rotate-45 {
     rotate: 45deg;
   }
+  .rotate-180 {
+    rotate: 180deg;
+  }
   .transform {
     transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
   }
@@ -869,6 +876,10 @@ html {
     border-style: var(--tw-border-style);
     border-width: 1px;
   }
+  .border-1 {
+    border-style: var(--tw-border-style);
+    border-width: 1px;
+  }
   .border-2 {
     border-style: var(--tw-border-style);
     border-width: 2px;
@@ -974,6 +985,9 @@ html {
   }
   .bg-gray-200 {
     background-color: var(--color-gray-200);
+  }
+  .bg-gray-300 {
+    background-color: var(--color-gray-300);
   }
   .bg-gray-600\/50 {
     background-color: color-mix(in srgb, oklch(44.6% 0.03 256.802) 50%, transparent);
@@ -1318,8 +1332,17 @@ html {
   .text-white {
     color: var(--color-white);
   }
+  .text-yellow-300 {
+    color: var(--color-yellow-300);
+  }
+  .text-yellow-500 {
+    color: var(--color-yellow-500);
+  }
   .text-yellow-700 {
     color: var(--color-yellow-700);
+  }
+  .text-yellow-900 {
+    color: var(--color-yellow-900);
   }
   .uppercase {
     text-transform: uppercase;
